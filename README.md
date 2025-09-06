@@ -1,4 +1,4 @@
-# Customer Support Dashboard & SQL Assistant
+# Customer Support - AI case resolution agent.
 
 A comprehensive web application featuring a real-time customer support dashboard with integrated AI-powered SQL chatbot. The system provides live monitoring of support tickets, customer information, and agent performance through an intuitive interface. The AI assistant allows users to query the database using natural language, making data access effortless for non-technical users.
 
